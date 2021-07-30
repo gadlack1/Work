@@ -1,0 +1,25 @@
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\bin\Debug\Main Form.exe.config
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\bin\Debug\Main Form.exe
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\bin\Debug\Main Form.pdb
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main Form.csprojAssemblyReference.cache
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.Properties.Resources.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.StaffAddForm.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main Form.csproj.GenerateResource.cache
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main Form.csproj.CoreCompileInputs.cache
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main Form.exe
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main Form.pdb
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.ClientAddForm.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.ProductTypeAddForm.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.ProductsAddForm.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.mainForm.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.OrderedAddForm.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.OrdersAddForm.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.ClientViewForm.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.ProductTypeViewForm.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.StaffViewForm.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.ProductViewForm.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.OrderedViewForm.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.OrdersFindForm.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.AboutBox.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.LoginForm.resources
+C:\Users\gadlackPC\source\repos\Main Form\Main Form\obj\Debug\Main_Form.UserAddForm.resources
